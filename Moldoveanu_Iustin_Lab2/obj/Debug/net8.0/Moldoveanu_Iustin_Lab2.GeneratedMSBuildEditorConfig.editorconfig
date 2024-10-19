@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Moldoveanu_Iustin_Lab2
+build_property.RootNamespace = Moldoveanu_Iustin_Lab2
+build_property.ProjectDir = C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Authors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Authors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Authors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Authors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Authors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Publishers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Publishers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Publishers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Publishers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Publishers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-e6bulbnnvl
