@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "mssql1": {
-      "type": "mssql.local",
-      "connectionId": "ConnectionStrings:Moldoveanu_Iustin_Lab2Context"
-    }
-  }
-}
