@@ -6,4 +6,5 @@
 
 ## Table Of Contents
 
- - [Lab1]([https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab1](https://github.com/moldoveanu-iustin/.NET_FSEGA/tree/Lab1))
+ - [Lab1](https://github.com/moldoveanu-iustin/.NET_FSEGA/tree/Lab1)
+ - [Lab2](https://github.com/moldoveanu-iustin/.NET_FSEGA/tree/Lab2)
