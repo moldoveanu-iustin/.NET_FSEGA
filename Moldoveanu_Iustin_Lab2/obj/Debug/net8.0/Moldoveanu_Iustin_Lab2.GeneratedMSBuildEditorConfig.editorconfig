@@ -66,12 +66,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/.TGW.Programs/.Others/.Facultate/Facultate/An III sem I - IE gr. 5/Medii de programare si dezvoltare/.NET_FSEGA/Moldoveanu_Iustin_Lab2/Pages/Privacy.cshtml]

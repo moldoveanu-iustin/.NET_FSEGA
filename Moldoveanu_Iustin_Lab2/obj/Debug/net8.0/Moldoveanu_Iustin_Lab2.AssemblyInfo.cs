@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Moldoveanu_Iustin_Lab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+616ce3b9a8538f7b3e4f6ecc79d8289963ea524c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa93b8753b2f4b2d46a413e2f6d36d2c76cee6da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Moldoveanu_Iustin_Lab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Moldoveanu_Iustin_Lab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
