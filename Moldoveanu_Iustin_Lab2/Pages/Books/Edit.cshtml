@@ -5,9 +5,7 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
-
-<h4>Book</h4>
+<h1>Edit book: @Model.Book.Title, author: @Model.Book.Author.FullName</h1>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -42,6 +40,8 @@
                 </select>
                 <span asp-validation-for="Book.PublisherID" class="text-danger"></span>
             </div>
+            <br />
+            Select the Book category:
             <br />
             <div class="form-group">
                 <div class="table">

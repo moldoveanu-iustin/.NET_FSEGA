@@ -5,9 +5,7 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
-
-<h4>Book</h4>
+<h1>Create new book:</h1>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -35,7 +33,7 @@
             <div class="form-group">
                 <label asp-for="Book.PublisherID" class="control-label">Publisher Name</label>
                 <select asp-for="Book.PublisherID" class="form-control" asp-items="ViewBag.PublisherID">
-                    <option value="">Select Publisher</option>
+                    <option value="">Select Publishers</option>
                 </select>
                 <span asp-validation-for="Book.PublisherID" class="text-danger"></span>
             </div>
@@ -47,6 +45,9 @@
                 </select>
                 <span asp-validation-for="Book.AuthorID" class="text-danger"></span>
             </div>
+            <br />
+            Select the Book category:
+            <br />
             <div class="form-group">
                 <div class="table">
                     <table>
@@ -71,6 +72,7 @@
                     </table>
                 </div>
             </div>
+            <br />
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
