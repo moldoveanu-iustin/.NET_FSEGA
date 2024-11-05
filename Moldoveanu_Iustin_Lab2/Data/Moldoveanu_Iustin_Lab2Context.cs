@@ -34,7 +34,19 @@ namespace Moldoveanu_Iustin_Lab2.Data
                 .HasOne(bc => bc.Category)
                 .WithMany(c => c.BookCategories)
                 .HasForeignKey(bc => bc.CategoryID);
+
+            modelBuilder.Entity<Book>()
+                .HasOne(b => b.Borrowing)
+                .WithOne(br => br.Book)
+                .HasForeignKey<Borrowing>(br => br.BookID);
+
+            modelBuilder.Entity<Borrowing>()
+                .HasOne(br => br.Member)
+                .WithMany(m => m.Borrowings)
+                .HasForeignKey(br => br.MemberID);
         }
+        public DbSet<Moldoveanu_Iustin_Lab2.Models.Member> Member { get; set; } = default!;
+        public DbSet<Moldoveanu_Iustin_Lab2.Models.Borrowing> Borrowing { get; set; } = default!;
     }
 
 }

@@ -258,3 +258,11 @@ C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de p
 C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\obj\Debug\net8.0\Moldoveanu_Iustin_Lab2.pdb
 C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\obj\Debug\net8.0\Moldoveanu_Iustin_Lab2.genruntimeconfig.cache
 C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\obj\Debug\net8.0\ref\Moldoveanu_Iustin_Lab2.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\.TGW.Programs\.Others\.Facultate\Facultate\An III sem I - IE gr. 5\Medii de programare si dezvoltare\.NET_FSEGA\Moldoveanu_Iustin_Lab2\obj\Debug\net8.0\Moldoveanu_Iustin_Lab2.MvcApplicationPartsAssemblyInfo.cs
