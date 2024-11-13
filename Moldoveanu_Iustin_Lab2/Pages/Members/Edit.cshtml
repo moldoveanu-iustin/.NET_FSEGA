@@ -32,7 +32,7 @@
             <div class="form-group">
                 <label asp-for="Member.Email" class="control-label"></label>
                 <input asp-for="Member.Email" class="form-control" />
-                <span asp-validation-for="Member.Email" class="text-danger"></span>
+                <span asp-validation-for="Member.Email" readonly class="text-danger"></span> @* ++++++++++ readonly *@
             </div>
             <div class="form-group">
                 <label asp-for="Member.Phone" class="control-label"></label>
